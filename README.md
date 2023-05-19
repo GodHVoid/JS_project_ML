@@ -7,4 +7,4 @@ This is the tutorial I followed: https://www.youtube.com/watch?v=c4VVPPy8zIE&lis
 
 This is a screenshot of the website using nearest neightbors classifier:
 
-
+![Alt text](/relative/path/to/js_screenshot.png?raw=true "")
